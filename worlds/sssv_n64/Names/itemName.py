@@ -30,6 +30,11 @@ SHIFTING_SANDS          = "Shifting Sands"
 PUNCH_UP_PYRAMID        = "Punch Up Pyramid"
 BIG_CELEBRATION_PARADE  = "Big Celebration Parade"
 
+EUROPE                  = "Europe"
+ARCTIC                  = "Arctic"
+JUNGLE                  = "Jungle"
+DESERT                  = "Desert"
+
 DOG                     = "Dog"
 SHEEP                   = "Sheep"
 RAT                     = "Rat"
@@ -75,6 +80,7 @@ PENGUIN_KING            = "Penguin King"
 COOL_COD                = "Cool Cod"
 
 POWER_CELL              = "Power Cell"
+TROPHY                  = "Trophy"
 
 TERMINAL_TRAP           = "Terminal Trap"
 HEALTH_INCREASE         = "Health Increase"
