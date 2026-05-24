@@ -117,7 +117,7 @@ JUNGLE_JUMPS_TASK_2             = "Jungle Jumps Task 2"
 JUNGLE_JUMPS_TASK_3             = "Jungle Jumps Task 3"
 
 #Evo's Escape
-EVOS_ESCAPE_Finish              = "Evo's Escape Finish"
+EVOS_ESCAPE_FINISH              = "Evo's Escape Finish"
 
 #Desert
 #Fun in the Sun
